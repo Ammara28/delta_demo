@@ -1,2 +1,2 @@
 # delta_demo
-This is for practice demo class.
+This is for practice demo class
